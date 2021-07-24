@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="salesIcon">Sales</string>
+    <string name="contacts">Контакты</string>
+    <string name="about">Про нас</string>
+    <string name="main">Главная</string>
+    <string name="header_one">Courses</string>
+    <string name="header_two">App</string>
+</resources>
